@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zebjtort.github.io/eroticarchives/sitemap.xml
